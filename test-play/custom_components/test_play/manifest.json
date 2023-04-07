@@ -1,0 +1,11 @@
+{
+  "codeowners": ["fff"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "wf",
+  "domain": "test_play",
+  "iot_class": "assumed_state",
+  "name": "My test",
+  "requirements": [],
+  "version": "1"
+}

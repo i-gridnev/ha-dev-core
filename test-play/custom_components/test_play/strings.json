@@ -1,0 +1,17 @@
+{
+  "config": {
+    "error": {
+      "auth": "Counter must be lower 50 "
+    },
+    "step": {
+      "user": {
+        "data": {
+          "name": "Name for counter",
+          "count": "Starting value"
+        },
+        "description": "Enter your val.",
+        "title": "First setup"
+      }
+    }
+  }
+}
